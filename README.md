@@ -14,5 +14,4 @@ bspwm o seguinte: GTK_THEME=Catppuccin-Mocha-Standard-Blue-Dark
 (https://wiki.archlinux.org/title/GTK#Configuration_tools)
 - [ ] Integrar temas GTK com Qt
 - [ ] Criar novos menus com rofi
-- [ ] Incluir fonte GrapeNuts-Regular no .local/share/fonts (para rofi)
-- 
+- [ ] Incluir fonte GrapeNuts-Regular (licença OFL 1.1) no .local/share/fonts (para rofi)
